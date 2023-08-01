@@ -9,7 +9,7 @@ fun main(){
         in 5..20 -> println("Rango 5 a 20")
         in 30..40 -> println("Rango 30 a 40")
         else -> {
-            println("Numero desconocido")
+            println("Numero  desconocido")
         }
     }
 
